@@ -703,3 +703,7 @@ section {
     transform: rotate(360deg);
   }
 }
+h3{
+  font-weight: 500;
+  font-size: large;
+}
