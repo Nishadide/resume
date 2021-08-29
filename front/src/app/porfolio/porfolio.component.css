@@ -38,7 +38,14 @@ section {
   position: relative;
   color: #173b6c;
 }
-
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  position: relative;
+  color: #173b6c;
+}
 .section-title h2::after {
   content: '';
   position: absolute;
@@ -360,6 +367,10 @@ section {
 }
 .img-fluid{
   height: 100%;
+}
+.img-fluid-phone{
+  height: 400px;
+  margin-left: 30px;
 }
 
 /*--------------------------------------------------------------
