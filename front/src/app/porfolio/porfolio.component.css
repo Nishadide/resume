@@ -46,6 +46,12 @@ h3 {
   position: relative;
   color: #173b6c;
 }
+h4 {
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  color: #173b6c;
+}
 .section-title h2::after {
   content: '';
   position: absolute;
@@ -317,7 +323,7 @@ h3 {
   /* height: 15%; */
 }
 
-.portfolio .portfolio-wrap .portfolio-links a {
+/* .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
   font-size: 28px;
   text-align: center;
@@ -333,14 +339,14 @@ h3 {
 
 .portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #37b3ed;
-}
+} */
 
 .portfolio .portfolio-wrap:hover::before {
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 .hide {
   display: none;
