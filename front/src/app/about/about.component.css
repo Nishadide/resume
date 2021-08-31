@@ -67,7 +67,7 @@ section {
 
   font-size: 20px;
   color: #173b6c;
-  margin-bottom: 50px;
+
 }
 
 .about .content ul {
@@ -365,11 +365,7 @@ section {
   opacity: 1;
   bottom: 0;
 }
-.img-fluid{
-  height: 80%;
-  margin-left: 30px;
 
-}
 
 /*--------------------------------------------------------------
 # Portfolio Details
